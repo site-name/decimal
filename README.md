@@ -16,7 +16,7 @@ _Note:_ Decimal library can "only" represent numbers with a maximum of 2^31 digi
 
 ## Install
 
-Run `go get github.com/shopspring/decimal`
+Run `go get github.com/site-name/decimal`
 
 ## Requirements 
 
@@ -29,7 +29,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shopspring/decimal"
+	"github.com/site-name/decimal"
 )
 
 func main() {
@@ -59,11 +59,11 @@ func main() {
 
 ## Documentation
 
-http://godoc.org/github.com/shopspring/decimal
+http://godoc.org/github.com/site-name/decimal
 
 ## Production Usage
 
-* [Spring](https://shopspring.com/), since August 14, 2014.
+* [Spring](https://site-name.com/), since August 14, 2014.
 * If you are using this in production, please let us know!
 
 ## FAQ
