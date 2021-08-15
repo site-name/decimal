@@ -59,11 +59,11 @@ func main() {
 
 ## Documentation
 
-http://godoc.org/github.com/site-name/decimal
+http://godoc.org/github.com/shopspring/decimal
 
 ## Production Usage
 
-* [Spring](https://site-name.com/), since August 14, 2014.
+* [Spring](https://shopspring.com/), since August 14, 2014.
 * If you are using this in production, please let us know!
 
 ## FAQ
@@ -127,4 +127,4 @@ than performance.
 
 The MIT License (MIT)
 
-This is a heavily modified fork of [fpd.Decimal](https://github.com/oguzbilgic/fpd), which was also released under the MIT License.
+This is a slightly modified fork of [shopspring.decimal](https://github.com/shopspring/decimal), which was also released under the MIT License.
